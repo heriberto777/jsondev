@@ -1,0 +1,20 @@
+{
+"vendedores" : [
+   {
+            "vendedor": "1",
+            "nombre": "Wilson Presbot"
+          },
+          {
+            "vendedor": "17",
+            "nombre": "Wilson Jimenez"
+          },
+          {
+            "vendedor": "O001",
+            "nombre": "Mary Rodriguez"
+          },
+          {
+            "vendedor": "O001",
+            "nombre": "Mary Rodriguez"
+          }
+]
+}
